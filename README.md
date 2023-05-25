@@ -1,6 +1,6 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+**User Notification (Customizable)** is an audit trail plugin to notify user upon assignment creation or reassignment, with the ability to customizable content for each process activity.
 
 # Getting Help
 
