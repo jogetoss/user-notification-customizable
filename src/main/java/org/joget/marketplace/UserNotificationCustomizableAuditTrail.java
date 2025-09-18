@@ -106,7 +106,6 @@ public class UserNotificationCustomizableAuditTrail extends UserNotificationAudi
                                         for(String user: toSpecificEmail.split(",")){
                                             users.add(toSpecificEmail.trim());
                                         }
-                                        users.add(toSpecificEmail);
                                     }
                                     
                                     //overrides default value
