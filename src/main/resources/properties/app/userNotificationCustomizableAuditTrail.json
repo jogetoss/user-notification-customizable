@@ -19,7 +19,8 @@
                {
                   "name": "toSpecific",
                   "label": "@@app.emailtool.toEmail@@",
-                  "type": "textfield"
+                  "type": "textfield",
+                  "description" : "@@org.joget.marketplace.app.userNotificationCustomizableAuditTrail.toSpecific.desc@@"
                },
                {
                   "name": "cc",
